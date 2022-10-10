@@ -1,3 +1,3 @@
-utility functions for version video 6 nikita
+utility functions for version video 6 nikita pandey
 
 
